@@ -23,10 +23,14 @@
 ### 👨‍💻 Graduate Software Engineer                         
                                                                                                                   
 🔭 Working at Yoco, a fintech company in South Africa
+
+---                                                                                               
                                                                                                 
 ### 🔍 Ask me about?
                                                                                                 
 💉 Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
+                                                                                                
+---                                                                                                
                                                                                                 
 ### 👨‍🎓 My Learning  
                                                                                                 
