@@ -20,17 +20,21 @@
 
 ---
                                                                                                 
-### :man_technologist: Graduate Software Engineer                         
+### 👨‍💻 Graduate Software Engineer                         
                                                                                                                   
 🔭 Working at Yoco, a fintech company in South Africa
-
-🌱 Interested in Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
+                                                                                                
+### 🔍 Ask me about?
+                                                                                                
+💉 Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
+                                                                                                
+### 👨‍🎓 My Learning  
                                                                                                 
 🚀 I’m currently learning React, Kotlin and Web Development in general                                                            
 
 ---
                                                                                                 
-### What projects am I proud of?
+### 🏆 What projects am I proud of?
 
 🏎️ Formula 1 information site using React
 
@@ -40,7 +44,7 @@
 
 ---                                                                                                
 
-### :hammer_and_wrench: Languages and Tools:
+### 🛠️ Languages and Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -57,7 +61,7 @@
 
 ---
 
-### :fire: My Stats:                                                                                                                                       
+### 🔥 My Stats:                                                                                                                                       
                                                                                                                                                   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustMyerson&theme=dark&background=000000)](https://git.io/streak-stats)
                                                                                                                                                   
