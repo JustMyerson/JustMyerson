@@ -24,11 +24,11 @@
 
 Graduate Software Engineer from Cape Town, South Africa.                         
                                                                                                                   
-- 🔭 I’m working at Yoco, a fintech company in South Africa
+🔭 Working at Yoco, a fintech company in South Africa
 
-- 🌱 Interested in Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
+🌱 Interested in Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
                                                                                                 
-- 🚀 I’m currently learning React, Kotlin and Web Development in general                                                            
+🚀 I’m currently learning React, Kotlin and Web Development in general                                                            
 
 ---
                                                                                                 
