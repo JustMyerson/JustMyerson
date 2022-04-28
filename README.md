@@ -9,7 +9,7 @@
   </a>
 </div>
 <h1>
-  Welcome to my GitHub
+  Welcome to my Life in Code!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -20,17 +20,15 @@
 
 ---
                                                                                                 
-### :man_technologist: What about me?       
+### :man_technologist: Who am I?       
 
-I am a Graduate Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Cape Town.                         
+Graduate Software Engineer from Cape Town, South Africa.                         
                                                                                                                   
-- :telescope: I’m working at Yoco, a fintech company based in South Africa
+- 🔭 I’m working at Yoco, a fintech company in South Africa
 
-- :seedling: Interested in machine learning, and how to apply it to medical usecases
-
-- :zap: In my free time, I enjoy gardening and watching sport
-
-- :mailbox: How to reach me: jamyerson@gmail.com                                                                      
+- 🌱 Interested in Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
+                                                                                                
+- 🚀 I’m currently learning React, Kotlin and Web Development in general                                                            
 
 ---
 
@@ -46,7 +44,7 @@ I am a Graduate Software Engineer <img src="https://media.giphy.com/media/WUlplc
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>                                                                                                                                  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>                                                                                                                         
 </div>
 
 ---
