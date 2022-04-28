@@ -20,7 +20,7 @@
 
 ---
                                                                                                 
-### :man_technologist: Who am I? Graduate Software Engineer                         
+### :man_technologist: Graduate Software Engineer                         
                                                                                                                   
 🔭 Working at Yoco, a fintech company in South Africa
 
