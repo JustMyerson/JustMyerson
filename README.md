@@ -34,11 +34,11 @@ Graduate Software Engineer from Cape Town, South Africa.
                                                                                                 
 ### What projects am I proud of?
 
-🏎️ - Formula 1 information site using React
+🏎️ Formula 1 information site using React
 
-🛒 - Building a eCommerce Store using JavaScript
+🛒 Building a eCommerce Store using JavaScript
 
-📈 - Deep Learning to predict network traffic on the South African Research and Education Network
+📈 Deep Learning to predict network traffic on the South African Research and Education Network
 
 ---                                                                                                
 
