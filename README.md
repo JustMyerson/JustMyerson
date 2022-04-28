@@ -31,6 +31,16 @@ Graduate Software Engineer from Cape Town, South Africa.
 - 🚀 I’m currently learning React, Kotlin and Web Development in general                                                            
 
 ---
+                                                                                                
+### What projects am I proud of?
+
+🏎️ - Formula 1 information site using React
+
+🛒 - Building a eCommerce Store using JavaScript
+
+📈 - Deep Learning to predict network traffic on the South African Research and Education Network
+
+---                                                                                                
 
 ### :hammer_and_wrench: Languages and Tools:
 
@@ -46,14 +56,6 @@ Graduate Software Engineer from Cape Town, South Africa.
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>    
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>                                                                                                                         
 </div>
-
----
-
-### What projects am I proud of?
-
-🏎️ - Formula 1 information site using React
-🛒 - Building a eCommerce Store using JavaScript
-📈 - Deep Learning to predict network traffic on the South African Research and Education Network
 
 ---
 
