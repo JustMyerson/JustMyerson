@@ -20,9 +20,7 @@
 
 ---
                                                                                                 
-### :man_technologist: Who am I?       
-
-Graduate Software Engineer from Cape Town, South Africa.                         
+### :man_technologist: Who am I? Graduate Software Engineer                         
                                                                                                                   
 🔭 Working at Yoco, a fintech company in South Africa
 
