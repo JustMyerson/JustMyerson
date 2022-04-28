@@ -49,6 +49,14 @@ Graduate Software Engineer from Cape Town, South Africa.
 
 ---
 
+### What projects am I proud of?
+
+🏎️ - Formula 1 information site using React
+🛒 - Building a eCommerce Store using JavaScript
+📈 - Deep Learning to predict network traffic on the South African Research and Education Network
+
+---
+
 ### :fire: My Stats:                                                                                                                                       
                                                                                                                                                   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JustMyerson&theme=dark&background=000000)](https://git.io/streak-stats)
