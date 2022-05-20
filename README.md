@@ -21,9 +21,11 @@
                                                                                                                   
 🔭 Working at Yoco, a Fintech company in South Africa
 
-<div align="center">
-  <img src="https://assets.website-files.com/5ff73e5cf154d32b1b12a937/60c724be1baa332257d5fb73_main_logo.jpg" width="400" height="200"/>
-</div>                                                                                                
+<div align="left">
+  <a href="https://www.yoco.com/za/">                 
+  <img src="https://assets.website-files.com/5ff73e5cf154d32b1b12a937/60c724be1baa332257d5fb73_main_logo.jpg" width="200" height="100"/>
+                                                                                                                                      </a>
+                                                                                                                                      </div>                                                                                                
                                                                                                 
 ---                                                                                               
                                                                                                 
@@ -37,7 +39,8 @@
                                                                                                 
 ### 👨‍🎓 My Learning  
                                                                                                 
-🚀 I’m currently learning React, Kotlin and Web Development in general                                                            
+🚀 I’m currently learning React, React Native and Web Development in general
+⏭️ Kotlin, and Data in general                                                                                                                                      
 
 ---
                                                                                                 
@@ -46,7 +49,9 @@
 🏎️ Formula 1 information site using React
 
 🛒 Building a eCommerce Store using JavaScript
-
+                                                                                                                                      
+✔️ To-Do List in React
+                                                                                                                                      
 📈 Deep Learning to predict network traffic on the South African Research and Education Network
 
 ---                                                                                                
@@ -63,8 +68,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" **alt="R" width="40" height="40"/>    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>                                                                                                                         
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>         <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Mongo DB" **alt="Mongo DB" width="40" height="40"/>         
 </div>
+
 
 ---
 
