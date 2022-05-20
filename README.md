@@ -6,7 +6,7 @@
   </a>
 </div>
 <h1>
-  Welcome to my Life in Code!
+  Welcome to my Life in Tech!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -19,13 +19,19 @@
                                                                                                 
 ### 👨‍💻 Graduate Software Engineer                         
                                                                                                                   
-🔭 Working at Yoco, a fintech company in South Africa
+🔭 Working at Yoco, a Fintech company in South Africa
 
+<div align="center">
+  <img src="https://assets.website-files.com/5ff73e5cf154d32b1b12a937/60c724be1baa332257d5fb73_main_logo.jpg" width="400" height="200"/>
+</div>                                                                                                
+                                                                                                
 ---                                                                                               
                                                                                                 
 ### 🔍 Ask me about?
                                                                                                 
 💉 Machine Learning, and how to apply it to medical usecases especially to improve diagnostic tools and patient outcomes
+
+💸 Fintech, what I am excited about and how I think it's a transformitive space                                                                                                                                       
                                                                                                 
 ---                                                                                                
                                                                                                 
